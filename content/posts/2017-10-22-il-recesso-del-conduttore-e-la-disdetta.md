@@ -1,0 +1,83 @@
+---
+title: IL RECESSO DEL CONDUTTORE E LA DISDETTA NELLE LOCAZIONI NON ABITATIVE
+author: avv-massimiliano-maenza
+type: post
+date: 2017-10-22T10:55:00+00:00
+url: /il-recesso-del-conduttore-e-la-disdetta/
+featured_image: /wp-content/uploads/2017/10/houses-70425_1280.jpg
+av_cpm_meta:
+  - 'a:2:{s:7:"message";s:0:"";s:9:"published";b:1;}'
+avopt_banners_inside_post:
+  - 'true'
+avopt_banners_on_page:
+  - 'true'
+categories:
+  - diritto civile
+  - Locazione
+
+---
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  <a href="https://static.wixstatic.com/media/ba94e17d337a4ec7bbac5f1d8e7ac7b4.jpg/v1/fill/w_290,h_207,al_c,q_80,usm_0.66_1.00_0.01/ba94e17d337a4ec7bbac5f1d8e7ac7b4.webp" style="clear: left;float: left;margin-bottom: 1em;margin-right: 1em"><img data-original-height="207" data-original-width="290" src="https://static.wixstatic.com/media/ba94e17d337a4ec7bbac5f1d8e7ac7b4.jpg/v1/fill/w_290,h_207,al_c,q_80,usm_0.66_1.00_0.01/ba94e17d337a4ec7bbac5f1d8e7ac7b4.webp" border="0" /></a>Una recente pronuncia della Cassazione&nbsp;(Cass. civ., sez. III, 13.06.2017, n. 14623), relativa ai rapporti tra il recesso ex art. 27, co. 8, L. 392/78 e la disdetta (o diniego di rinnovo), offre lo spunto per una breve disamina di questi due istituti in materia di locazioni ad uso non abitativo.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  La locazione di immobili adibiti ad uso non abitativo è disciplinata dalla legge n. 392 del 1978 (Legge speciale in materia di locazione di immobili urbani), che persegue l&#8217;obiettivo principale di garantire la stabilità del godimento. Detta stabilità è garantita principalmente dalla disciplina della durata del contratto che prevede importanti tutele a favore del conduttore in quanto contraente debole.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  <span style="background-image: initial;background-position: 0px 0px;border: 0px;font-weight: bold;margin: 0px;padding: 0px;vertical-align: baseline">Durata e rinnovo.</span>&nbsp;&#8211;&nbsp;L&#8217;art. 27 della L. 392/1978 stabilisce che la durata dei contratti di locazione di immobili in cui si svolge attività industriale, commerciale, artigianale, di interesse turistico o di lavoro autonomo non può essere inferiore a 6 anni (9 anni in caso di &nbsp;attività alberghiera). Le parti sono libere di concordare una durata maggiore ma, se il contratto prevede una durata inferiore, ovvero non preveda alcuna durata, si considera stipulato per la durata legalmente prevista.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Il contratto di locazione, inoltre, si rinnova tacitamente (art. 28 L. 392/78) di sei anni in sei anni (nove per le attività alberghiere), salva la facoltà di disdetta da comunicarsi all&#8217;altra parte a mezzo di lettera raccomandata, con un preavviso di almeno 12 mesi (18 mesi per le locazioni alberghiere). Proprio nella disciplina del rinnovo e della disdetta si evidenzia la tutela che il legislatore attribuisce al conduttore.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Il diniego di rinnovo alla prima scadenza da parte del locatore, infatti, è possibile solo in casi tassativamente previsti dall&#8217; art. 29 L. 392/78, ossia qualora intenda:&nbsp;a) adibire l&#8217;immobile ad abitazione propria o del coniuge o dei parenti entro il secondo grado in linea retta;&nbsp;b) adibire l&#8217;immobile all&#8217;esercizio, in proprio o da parte del coniuge o dei parenti entro il secondo grado in linea retta, di attività industriale, commerciale, artigianale, di interesse turistico, alberghiera o di lavoro autonomo; se si tratta di pubbliche amministrazioni o enti pubblici per adibire l&#8217;immobile al conseguimento di finalità istituzionali;&nbsp;c) demolire l&#8217;immobile per ricostruirlo o ristrutturarlo;&nbsp;d) ristrutturare l&#8217;immobile al fine di rendere le superfici dei locali adibiti alla vendita conformi alle prescrizioni di legge (se la realizzazione delle opere non consente la permanenza del conduttore).
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Per le scadenze successive alla prima, invece, il diniego di rinnovo è libero.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Il conduttore, dal canto suo, ha sempre la facoltà di dare disdetta al contratto impedendone il tacito rinnovo a prescindere dal motivo. Dovrà, ovviamente, rispettare il requisito della comunicazione a mezzo lettera raccomandata ed il preavviso minimo.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  <span style="background-image: initial;background-position: 0px 0px;border: 0px;font-weight: bold;margin: 0px;padding: 0px;vertical-align: baseline">Il recesso del conduttore.&nbsp;</span>&#8211;&nbsp;Anche la disciplina del recesso esprime chiaramente la tutela che l&#8217;ordinamento conferisce al conduttore; solo quest&#8217;ultimo, infatti, può recedere dal contratto di locazione. Il locatore, al contrario, non ha la possibilità di recedere: egli, per riottenere la disponibilità dell&#8217;immobile, dovrà attendere la scadenza naturale del contratto. Una clausola che consentisse la facoltà di recesso al locatore sarebbe nulla.&nbsp;L&#8217;art. 27 &nbsp;della L. 392/78, difatti, nel disciplinare la durata del contratto, prevede la facoltà delle parti di convenire che il conduttore possa recedere in qualsiasi momento dal contratto dandone preavviso, a mezzo di lettera raccomandata, di almeno 6 mesi. Anche qualora il contratto non preveda tale facoltà il conduttore&nbsp;può sempre recedere dal contratto qualora ricorrano gravi motivi, con preavviso di almeno sei mesi da comunicarsi con lettera raccomandata.&nbsp;
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Il punto fondamentale del recesso unilaterale, quindi, è individuare quali sono i &#8220;gravi motivi&#8221; che consentono al conduttore di recedere dal contratto di locazione.&nbsp;Si tratta di fatti estranei alla volontà del conduttore, imprevedibili e sopravvenuti alla costituzione del rapporto locativo, che ne rendano oltremodo gravosa per il conduttore la prosecuzione (vedi ex multis Cassazione n. 26711 del 2011). Alla luce di questa definizione la giurisprudenza ha riconosciuto rilevanza, ad esempio, ai motivi di ordine economico (sopravvenuti, imprevedibili e non riconducibili alla volontà del conduttore) tali da giustificare una riorganizzazione della struttura del conduttore (Cass. n. 6089 del 2006); ovvero all&#8217;andamento della congiuntura economica (Cass. n. 3418 del 2004). Analogamente è stato riconosciuto grave motivo la mancata realizzazione di un piano di sviluppo edilizio della zona (nello specifico la realizzazione di un centro commerciale) già approvato (Cass. n. 3651 del 2004), oppure l&#8217;esigenza &#8211; purché insorta successivamente alla stipula del contratto di locazione &#8211; di trasferire altrove l&#8217;attività svolta nell&#8217;immobile locato (Cass. &nbsp;n. 15082 del 2000). Non è possibile, evidentemente, elencare una casistica esaustiva; ad accomunare questi casi sono i requisiti, già citati, della obiettività, involontarietà, imprevedibilità e sopravvenienza.&nbsp;Ad ogni modo il motivo del recesso deve essere specificamente indicato nella comunicazione inviata al locatore proprio al fine di consentire a quest&#8217;ultimo di &nbsp;contestarlo.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  <span style="background-image: initial;background-position: 0px 0px;border: 0px;font-weight: bold;margin: 0px;padding: 0px;vertical-align: baseline">Il rapporto tra recesso e disdetta.&nbsp;</span>&#8211; Alla luce di quanto appena esposto si può notare che il conduttore ha facoltà sia di dare disdetta alla scadenza sia di recedere per &#8220;gravi motivi&#8221; in qualsiasi momento. Tali facoltà possono, in alcuni casi, sovrapporsi; a tal proposito una recente pronuncia della Cassazione&nbsp;(Cass. civ., sez. III, 13.06.2017, n. 14623) è intervenuta in merito ai rapporti e differenze tra il recesso ex art. 27, co. 8, L. 392/78 e la disdetta. In particolare la Suprema Corte, ha riconosciuto, che qualora il motivo posto a fondamento del recesso unilaterale sia insorto prima del rinnovo del contratto (rectius: prima del termine per poter esercitare utilmente la disdetta), il recesso è illegittimo. Nel caso di specie nel corso del rapporto locativo era sopravvenuta una normativa (in materia di sicurezza del lavoro) che rendeva l&#8217;immobile locato inidoneo allo scopo; non vi sono dubbi che ciò costituisca grave motivo per il recesso. Tuttavia il conduttore ha esercitato tale diritto dopo il rinnovo del contratto. La Cassazione ha affermato che il diritto di recesso costituisce un &#8220;rimedio speciale all&#8217;alterazione del sinallagma contrattuale derivante dalla sopravvenuta inutilità o non fruibilità dell&#8217;immobile condotto in locazione. Pertanto i gravi motivi che lo giustificano non soltanto devono essere obiettivi e sopravvenuti, ma devono anche essersi verificati in un tempo in cui allo squilibrio delle prestazioni contrattuali non può porsi rimedio in modo diverso che mediante il recesso&#8221;. Il rimedio fisiologico qualora il contratto arrivi a scadenza è quello della disdetta e, se le parti lasciano che il contratto si rinnovi, si presume che esse abbiamo valutato la convenienza della prosecuzione del contratto. Secondo la Cassazione, pertanto, &#8220;quando i gravi motivi sopravvenuti dedotti dal conduttore si sono verificati prima della scadenza del termine per dare l&#8217;utile disdetta alla scadenza naturale del contratto e il conduttore non l&#8217;abbia data, tale condotta, interpretata secondo il principio di buona fede, va intesa come rinuncia a far valere in futuro l&#8217;incidenza di tali motivi sul sinallagma contrattuale, dei quali può altresì presumersi la non gravità, poiché altrimenti sarebbe stato ragionevole utilizzare il mezzo più rapido per la cessazione del rapporto&#8221;. Nel caso di specie la Suprema Corte ha ritenuto la legittimità del recesso poiché il grave motivo si intende verificato non al momento dell&#8217;entrata in vigore della normativa che ha reso l&#8217;immobile inidoneo ma, al momento &#8211; verificatosi successivamente alla rinnovazione tacita del contratto &#8211; in cui il conduttore (mediante una relazione tecnica) è venuto a conoscenza della non conformità dell&#8217;immobile.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Con la pronuncia in oggetto la Cassazione muta il proprio precedente orientamento di cui alla Sent. n. 15082 del 2000; in tale occasione il Supremo Collegio si era espresso in maniera radicalmente opposta&nbsp;affermando che &#8220;in presenza dei gravi motivi previsti dall&#8217;ultimo comma dell&#8217;art. 27 (&#8230;) il conduttore può esercitare, in qualsiasi momento, il diritto di recesso, purché si tratti di motivi sopravvenuti alla conclusione del contratto, ancorché i motivi stessi si siano manifestati in pendenza dei termini per impedire, alla scadenza, la rinnovazione del contratto stesso e il conduttore non si sia avvalso di tale facoltà&#8221;. La Cassazione nel 2000, infatti, partiva dal concetto fondamentale che disdetta e recesso erano istituti diversi che operano su piani diversi &#8220;sicché non può vedersi nel fatto che la disdetta sia mancata, fatto che può dipendere dalle più diverse ragioni, un comportamento che presuppone anche la volontà di non far valere il diverso diritto di recesso&#8221;.&nbsp;
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  <span style="background-image: initial;background-position: 0px 0px;border: 0px;font-weight: bold;margin: 0px;padding: 0px;vertical-align: baseline">Conclusioni.&nbsp;</span>&#8211;&nbsp;La normativa sulle locazioni non abitative, al fine di garantire la stabilità del rapporto e la tutela del contraente debole, consente al locatore &#8211; che non può mai recedere dal contratto &#8211; solo di impedire il rinnovo: facoltà esercitabile liberamente solo alla seconda scadenza, quindi dopo dodici&nbsp;anni. Il conduttore, invece, può dare liberamente la disdetta già alla prima scadenza ed ha la facoltà di recedere in qualsiasi momento dal contratto per gravi motivi. La disdetta, secondo l&#8217;orientamento giurisprudenziale più recente, costituisce lo strumento fisiologico per l&#8217;interruzione del rapporto contrattuale, pertanto occorre domandarsi se il conduttore dovrà sempre preferire questa, quando possibile, allo strumento del recesso che è, invece, rimedio speciale utilizzabile solo in caso di alterazioni sopravvenute e imprevedibili del sinallagma contrattuale. Non sembra potersi dare una risposta certa a tale quesito, anche in ragione del precedente contrario sopra citato. Ma, anche in caso di risposta positiva (e quindi di conferma del più recente orientamento giurisprudenziale), appare fuori di dubbio che il rapporto tra rimedio speciale e rimedio fisiologico comporti una preferenza per quest&#8217;ultimo&nbsp;solamente in casi &#8211; come quello della sentenza citata &#8211; in cui al verificarsi del motivo di recesso, si sia proceduto al rinnovo del contratto, mentre nulla vieta al conduttore di esercitare il recesso nel caso in cui, verificatosi un grave motivo, sia ancora in tempo per comunicare la disdetta.
+</div>

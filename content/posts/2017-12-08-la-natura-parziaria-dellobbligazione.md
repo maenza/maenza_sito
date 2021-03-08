@@ -1,0 +1,48 @@
+---
+title: La natura parziaria dell’obbligazione condominiale
+author: avv-massimiliano-maenza
+type: post
+date: 2017-12-08T10:40:00+00:00
+url: /la-natura-parziaria-dellobbligazione/
+featured_image: /wp-content/uploads/2017/12/condo-2618421_1280.jpg
+av_cpm_meta:
+  - 'a:2:{s:7:"message";s:0:"";s:9:"published";b:0;}'
+avopt_banners_inside_post:
+  - 'false'
+avopt_banners_on_page:
+  - 'false'
+categories:
+  - condominio
+
+---
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Il condominio rappresenta un &#8220;ente&#8221; sui generis; ad esso non è attribuita personalità giuridica ed è rappresentato da un amministratore, che agisce quale mandatario dei condomini, sui quali ricadono, pro quota, le obbligazioni assunte dal condominio.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Secondo la giurisprudenza, infatti, il condominio tra edifici rappresenta un&nbsp;<span style="background-image: initial;background-position: 0px 0px;border: 0px;font-weight: bold;margin: 0px;padding: 0px;vertical-align: baseline">ente di gestione</span>&nbsp;sfornito di personalità giuridica distinta da quella dei singoli partecipanti e privo di autonomia patrimoniale (ex multis Cass. 2363/2012). Anche a seguito della riforma del condominio di cui alla legge 220/2012 la situazione non è mutata. Le Sezioni Unite della Cassazione con Sent. n. 19663/2014, pur escludendo che la riforma abbia attribuito al condominio personalità giuridica, hanno riconosciuto il configurarsi in capo al condominio se non una&nbsp;<span style="background-image: initial;background-position: 0px 0px;border: 0px;font-style: italic;margin: 0px;padding: 0px;vertical-align: baseline">&#8220;sia pure attenuata personalità giuridica&#8221;</span>&nbsp;sicuramente una&nbsp;<span style="background-image: initial;background-position: 0px 0px;border: 0px;font-style: italic;margin: 0px;padding: 0px;vertical-align: baseline">&#8220;soggettività giuridica autonoma</span>&#8220;. Ciò nonostante rimane tuttora valida la concezione del condominio quale ente di gestione.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Da tale concezione consegue che il creditore del condominio, anche se può agire nei confronti dell&#8217;intero ente condominiale, rappresentato dall&#8217;amministratore, per vedere accertato il proprio credito in un giudizio di merito, in sede esecutiva è tenuto ad agire nei confronti dei singoli condomini nei limiti delle rispettive quote millesimali. Questi, inoltre, sono liberati dall&#8217;obbligazione se pagano &#8211; nelle mani dell&#8217;amministratore &#8211; le spese condominiali da loro dovute.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  <a href="https://static.wixstatic.com/media/f78705a37b5b33be6837f77a7e4deb87.jpg/v1/fill/w_290,h_193,al_c,q_80,usm_0.66_1.00_0.01/f78705a37b5b33be6837f77a7e4deb87.webp" style="clear: right;float: right;margin-bottom: 1em;margin-left: 1em"><img border="0" data-original-height="193" data-original-width="290" src="https://static.wixstatic.com/media/f78705a37b5b33be6837f77a7e4deb87.jpg/v1/fill/w_290,h_193,al_c,q_80,usm_0.66_1.00_0.01/f78705a37b5b33be6837f77a7e4deb87.webp" /></a>Quanto affermato trova conferma anche nella recente giurisprudenza della Cassazione la quale, con Ord. n. 14530 del 09.06.2017 ha ribadito la&nbsp;<span style="background-image: initial;background-position: 0px 0px;border: 0px;font-weight: bold;margin: 0px;padding: 0px;vertical-align: baseline">parziarietà dell&#8217;obbligazione condominiale</span>. Nonostante il creditore, nel caso di specie, suggerisse l&#8217;opportunità di rimeditarne la natura in favore di quella solidale, il Supremo Collegio ha confermato l&#8217;impostazione già resa a Sezioni Unite con&nbsp; la sent. n. 9148/2008 secondo cui:&nbsp;<span style="background-image: initial;background-position: 0px 0px;border: 0px;font-style: italic;margin: 0px;padding: 0px;vertical-align: baseline">&#8220;in riferimento alle obbligazioni assunte dall&#8217;amministratore, o comunque, nell&#8217;interesse del condominio, nei confronti dei terzi &#8211; in difetto di un&#8217;espressa normativa che stabilisca il principio della solidarietà, trattandosi di un&#8217;obbligazione avente ad oggetto una somma di denaro, e perciò divisibile, vincolando l&#8217;amministratore i singoli condomini nei limiti delle sue attribuzioni e del mandato conferitogli in ragione delle quote, in conformità con il difetto di struttura unitaria del condominio &#8211; la responsabilità dei condomini è retta dal criterio della parziarietà, per cui le obbligazioni assunte nell&#8217;interesse del condominio si imputano ai singoli componenti soltanto in proporzione delle rispettive quote&#8221;</span>.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Secondo il giudice di legittimità non vi è motivo di mutare detto orientamento che pare giustificato dal rapporto tra obbligo dei condomini a contribuire alle spese ed il diritto dominicale che lega pro quota il singolo partecipante alle parti ed ai servizi comuni che comporta che il condomino debba vedere limitata la misura della propria responsabilità in rapporto alla misura della propria partecipazione (così Cass. Ord. n. 14530 del 09.06.2017).
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Il creditore in possesso di un titolo esecutivo nei confronti del condominio, pertanto, per poter procedere ad esecuzione forzata deve notificare titolo e precetto (ovviamente parziale) a ciascun condomino, dimostrando la sua qualità di condomino ed allegando le quote millesimali. Spetta al condomino precettato, invece, eventualmente eccepire &#8211; mediante opposizione a precetto &#8211; che gli è stato intimato il pagamento di una somma eccedente la propria quota (in tal senso Cass. n. 22856 del 29.09.2017).
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  Considerato, inoltre, che il condomino che abbia pagato la propria quota di spese condominiali nelle mani dell&#8217;amministratore si è liberato dall&#8217;obbligazione, è necessario che il creditore si faccia comunicare dall&#8217;amministratore i nominativi dei condomini morosi per agire esecutivamente solo nei confronti di questi. Non a caso, infatti, la L. 220/2012 ha modificato l&#8217;art. 63 disp. att. c.c., specificando che l&#8217;amministratore &#8220;<span style="background-image: initial;background-position: 0px 0px;border: 0px;font-style: italic;margin: 0px;padding: 0px;vertical-align: baseline">è tenuto a comunicare ai creditori non ancora soddisfatti che lo interpellino i dati dei condomini morosi&#8221;</span>. Tale informazione dovrà essere completa, con indicazione delle generalità e delle quote millesimali con specifico riferimento ai crediti vantati dal richiedente (così Trib. Tivoli 16.11.2015). Il secondo comma dell&#8217;art. 63 disp. att. c.c. precisa poi che&nbsp;<span style="background-image: initial;background-position: 0px 0px;border: 0px;font-style: italic;margin: 0px;padding: 0px;vertical-align: baseline">&#8220;i creditori non possono agire nei confronti degli obbligati in regola con i pagamenti, se non dopo l&#8217;escussione degli altri condomini&#8221;</span>, imponendo quindi al creditore del condominio di agire nei confronti dei condomini morosi, ma consentendo, seppur solo in via sussidiaria, di agire contro i condomini in regola con i pagamenti; un tanto appare in contrasto con la natura parziaria dell&#8217;obbligazione condominiale che, quindi, conferma la sua peculiarità.
+</div>
+
+<div class="font_8" style="background-image: initial;background-position: 0px 0px;border: 0px;color: #0c3c60;, serif;font-size: 15px;line-height: normal;padding: 0px;text-align: justify;vertical-align: baseline">
+  In definitiva un&#8217;azione esecutiva per recuperare un credito nei confronti del condominio appare quantomeno &#8220;laboriosa&#8221;. La prima scelta è certamente quella di aggredire il conto corrente condominiale; se questo però, come probabile, risultasse incapiente il creditore è costretto a&nbsp;moltiplicare le azioni esecutive agendo&nbsp;prima nei confronti dei condomini morosi e poi di quelli in regola con i pagamenti. Non si può sottacere che questi ultimi, potrebbero provare ad eccepire di aver già pagato le proprie quote evidenziando, quindi, il contrasto tra l&#8217;art. 63, co. 2, disp. att. c.c &nbsp;e la natura parziaria dell&#8217;obbligazione condominiale.
+</div>

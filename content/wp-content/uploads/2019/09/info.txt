@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SlingLight
+font link: https://www.fontsquirrel.com/fonts/Sling
+font author: STAR Retrieval Systems
+font author site: 
+
+
+icon designer: Nikita Kozin
+icon designer link: /kozinn
+        
+{"bg":"transparent","icon-gradient-0":"#0076DD","icon-gradient-1":"#00CDE9","font":"#000000","slogan":"#141414"}
+      
